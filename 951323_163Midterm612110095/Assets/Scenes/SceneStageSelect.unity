@@ -747,6 +747,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _backButton: {fileID: 224872770}
+  _stage1: {fileID: 1673568912}
+  _stage2: {fileID: 2094536076}
 --- !u!4 &1291185326
 Transform:
   m_ObjectHideFlags: 0

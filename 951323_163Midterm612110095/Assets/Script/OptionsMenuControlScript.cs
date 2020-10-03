@@ -29,7 +29,8 @@ public class OptionsMenuControlScript : MonoBehaviour
         
     }
     public void BackButtonClick(Button button) {
-        SceneManager.UnloadSceneAsync("SceneOptions");
+        //SceneManager.UnloadSceneAsync("SceneOptions");
+         SceneManager.LoadScene("SceneMainmenu");
         SingletonGameApplicationManager.Instance.IsOptionMenuActive = false;
     }
     public void DropdownDifficultyChanged(Dropdown dropdown) {

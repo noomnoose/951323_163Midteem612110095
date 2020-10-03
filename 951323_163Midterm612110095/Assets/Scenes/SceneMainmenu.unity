@@ -500,7 +500,7 @@ MonoBehaviour:
   buttonOptions: {fileID: 1959009403}
   buttonCreedits: {fileID: 1951686694}
   buttonExit: {fileID: 185100974}
-  audioclipHoldOver: {fileID: 0}
+  audioclipHoldOver: {fileID: 8300000, guid: a57265a7676db42d6af0787916bb04f7, type: 3}
 --- !u!1 &260678117
 GameObject:
   m_ObjectHideFlags: 0
